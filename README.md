@@ -4,9 +4,5 @@ Recommendation systems are a subclass of information filtering system that seeks
 
 DATASETS:
 We used two datasets, which capture the interactions between the items and users, as our approaches demanded the interaction data as well as feature data, but we also wanted to test two datasets with different features and dimensionality. The two datasets are :
-1. Food.com Recipes [10] - this captures the information about different recipes, different users, and the interaction between them through ratings. It consists of different features for 230186 unique recipes like their tags, ingredients and description, along with 1125284 total interactions between the users and the recipes.
-2. Restaurant Data with Consumer Ratings [11] - this captures the information about different restaurants and their features, along with the user ratings for each of the restaurants. It consists of different features like cuisine, payment methods, parkings for each restaurant, and 1161 interactions between users and restaurants.
- hyperparameters to recommendations.
-generate test
-2.2 K-Nearest Neighbours on Embeddings
-After the training of the Hybrid model using BERT embeddings. We wanted to analyze the change in embeddings and make recommendations based on the newly generated embeddings of each item, as shown in the
+1. Food.com Recipes - this captures the information about different recipes, different users, and the interaction between them through ratings. It consists of different features for 230186 unique recipes like their tags, ingredients and description, along with 1125284 total interactions between the users and the recipes.
+2. Restaurant Data with Consumer Ratings - this captures the information about different restaurants and their features, along with the user ratings for each of the restaurants. It consists of different features like cuisine, payment methods, parkings for each restaurant, and 1161 interactions between users and restaurants.
